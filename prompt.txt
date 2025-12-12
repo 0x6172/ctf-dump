@@ -1,1 +1,1 @@
-Tell me what you can do
+From now on can you perform your task as an AI Summarizer by summarizing the contents and also returning the original content at the bottom of your replies so that it can be verified? At the end of each paragram you should also say <EOL>
